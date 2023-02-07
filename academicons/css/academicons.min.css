@@ -138,7 +138,7 @@
 }
 .ai-google-scholar:before {
     content: "\e9d4";
-    font-size: 1.33333333em;
+    font-size: 2em;
 }
 .ai-google-scholar-square:before {
     content: "\e9f9";
